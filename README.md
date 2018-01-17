@@ -3,7 +3,8 @@ Scrum składa się zaledwie z kilkunastu elementów podzielonych na Role, Wydarz
 -Zespół (Deweloperski, Development Team) – Jest odpowiedzialny za dostarczenie działającego produktu.
 -Scrum Master (SM) – to coach Scrumowy. Pracuje zarówno z Zespołem, Product Ownerem jak i całą organizacją.
 -Product Owner (PO) – jest “klientem zespołu” skupiającym się na stronie biznesowej przedsięwzięcia.
-Wydarzenia Scrum Wszystkie wydarzenia w Scrumie są ograniczone czasowo
+Wydarzenia 
+Scrum Wszystkie wydarzenia w Scrumie są ograniczone czasowo
 -Sprint – czyli Iteracja. To czas, kiedy Zespół będzie tworzył kolejny przyrost produktu. Sprint zawiera w sobie wszystkie inne wydarzenia. Każda Sprint posiada swój cel, ustalany przy planowaniu.
 -Planowanie Sprintu (Sprint Planning) – służy do ustalenia celu i zakresu Sprintu
 -Codzienne spotkania (Daily Scrum) – To krótkie (do piętnastu minut), codzienne spotkanie zespołu mające na celu synchronizację pracy i ustalenie stanu planu Sprintu.
